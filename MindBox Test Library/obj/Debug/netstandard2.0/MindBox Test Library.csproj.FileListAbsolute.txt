@@ -1,0 +1,10 @@
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\bin\Debug\netstandard2.0\MindBox Test Library.deps.json
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\bin\Debug\netstandard2.0\MindBox Test Library.dll
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\bin\Debug\netstandard2.0\MindBox Test Library.pdb
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.AssemblyInfoInputs.cache
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.AssemblyInfo.cs
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.dll
+C:\Users\vlad\source\repos\MindBox Test Library\MindBox Test Library\obj\Debug\netstandard2.0\MindBox Test Library.pdb
